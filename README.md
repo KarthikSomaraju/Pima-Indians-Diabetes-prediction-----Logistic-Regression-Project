@@ -52,8 +52,6 @@ The Logistic Regression model was evaluated using:
 * Accuracy
 * Precision
 * Recall
-* F1-score
-* ROC-AUC
 * Confusion Matrix
 
 ### Results
